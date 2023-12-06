@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Quizee Game</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="spinner_stand">spinner stand</string>
+    <string name="spinner_pin">spinner pin</string>
+    <string name="spinner_logo">spinner logo</string>
+    <string name="treasure">treasure</string>
+</resources>

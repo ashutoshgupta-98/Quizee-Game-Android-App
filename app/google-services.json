@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "660071488453",
+    "firebase_url": "https://quizee-game-default-rtdb.firebaseio.com",
+    "project_id": "quizee-game",
+    "storage_bucket": "quizee-game.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660071488453:android:e0647e33b66ca77ade49ac",
+        "android_client_info": {
+          "package_name": "com.example.quizeegame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660071488453-4r1f9fq7dc8mcsf5kuam2kab2u8j92c7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7QXJoSI0uF6NpkzjSLfN4bhIKTMVI4oY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660071488453-4r1f9fq7dc8mcsf5kuam2kab2u8j92c7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660071488453:android:0f24fbca2ff53f3ede49ac",
+        "android_client_info": {
+          "package_name": "com.quiz.quizeegame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660071488453-4r1f9fq7dc8mcsf5kuam2kab2u8j92c7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7QXJoSI0uF6NpkzjSLfN4bhIKTMVI4oY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660071488453-4r1f9fq7dc8mcsf5kuam2kab2u8j92c7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
